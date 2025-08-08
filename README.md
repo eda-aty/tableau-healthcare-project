@@ -1,4 +1,5 @@
 # Tableau-Healthcare-Project
+
 # 📊 Patient Appointment No-Show Analysis
 
 ## 📘 Project Overview
@@ -14,23 +15,10 @@ The analysis and visualizations were created in Tableau using an open healthcare
 -  Kaggle → Dataset source
 
 
-## 🎯 Business Problem
-Patient no-shows create significant challenges for healthcare providers:
+## 🎯 Business Questions
+Patient no-shows create significant challenges for healthcare providers. By analyzing no-show patterns, we can uncover who is most likely to miss appointments, when it happens most often, and why, enabling targeted interventions such as reminder systems, scheduling adjustments, and patient education.
 
-- Lost revenue from unused appointment slots
-
-- Increased wait times for other patients
-
-- Inefficient use of staff and resources
-
-- Potential negative impact on patient health outcomes
-
-By analyzing no-show patterns, we can uncover who is most likely to miss appointments, when it happens most often, and why, enabling targeted interventions such as reminder systems, scheduling adjustments, and patient education.
----
-
-## 🔎 Business Questions
-
-Before analysis, the following questions guided the project:
+🔎 Before analysis, the following questions guided the project:
 
 - What is the overall patient no-show rate?
 
@@ -42,6 +30,8 @@ Before analysis, the following questions guided the project:
 
 - How effective are SMS reminders in reducing no-shows?
 
+
+---
 
 ## 📁 Dataset
 
@@ -67,6 +57,8 @@ Dataset includes: Patient ID, Gender, Scheduled Date, Appointment Date, Age, Nei
 - Visits by Age Group
 
 - Impact of SMS Reminders on Attendance
+
+  ## 📈 Dashboard
 
 - 🔗 [Tableau Dashboard] (https://public.tableau.com/views/HealtcareDataAnalysisProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
