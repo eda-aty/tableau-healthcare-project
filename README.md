@@ -66,53 +66,37 @@ Dataset includes: Patient ID, Gender, Scheduled Date, Appointment Date, Age, Nei
 
 📊 Key Insights
 
-1️⃣ Total Visits 
+1️⃣ Patient Volume & Attendance
 
-The dataset shows X,XXX total appointments during the analyzed period.
+* Total Unique Patients: 62,294
+* Attended Visits: 110,527
+* No-Show Rate: 20.2% — This is relatively high and suggests an operational efficiency gap.
+* Implication: 1 in 5 scheduled patients do not attend their appointments.
 
-A significant portion of visits occur on [most common day], suggesting scheduling patterns or operational preferences.
+2️⃣ Appointment Trends (Daily)📅
 
-2️⃣ Day of the Week Trends 📅
+* Pattern: Appointment volumes peak early in the month (days 2–6) and then stabilize at a lower level.
 
-[Highest day] has the most visits, possibly linked to post-weekend checkups or clinic availability.
+3️⃣ Gender Comparison 🚹🚺
 
-[Lowest day] sees fewer appointments, which might be due to reduced hours or patient preferences.
+* Attendance rates for Female (F) and Male (M) patients are similar — no major gender-based difference.
 
-3️⃣ Age Group Distribution 👶🧑‍🦳
+4️⃣ SMS Reminder Impact  📲 ✅
 
-The largest patient segment is [dominant age group], making up XX% of total visits.
+* Patients receiving SMS reminders show higher attendance (lower no-show rates).
 
-Younger patients (<18) have lower visit counts, while older adults (60+) show higher attendance for regular checkups.
+5️⃣ Day of Week Visit by Age Group 👶🧑‍🦳
 
-4️⃣ No-Show Rate 🚫
+* Highest Volume Days: Wednesday, Tuesday, Monday (in that order).
+* Lowest Volume Days: Saturday (almost negligible) and Thursday.
+* Age Group Trends:
+    * 0–18 years have the highest total visits.
+    * 76+ years have the lowest visit activity
 
-X% of all scheduled appointments resulted in no-shows, impacting resource planning and patient care efficiency.
-
-No-shows are more common in [specific age group or day].
-
-5️⃣ Gender Breakdown 🚹🚺
-
-Visits are slightly skewed towards [Male/Female] patients at XX% vs. XX%.
-
+6️⃣ Weekday Trend of Appointments ⏳
+* Peak Days: Tuesday & Wednesday (~25.8K visits each).
+* Lowest Day: Saturday (almost no visits).
 
 ## 💡 Recommendations
-✅ Optimize Staffing by Peak Days
 
-Increase staff availability on [peak days] to handle higher patient volume.
-
-✅ Targeted Reminders for High No-Show Groups
-
-Use SMS or app notifications for [age/day group] with the highest no-show rates.
-
-✅ Flexible Scheduling for Older Patients
-
-Offer earlier appointment slots for seniors to match preferred visit times.
-
-✅ Encourage Visits on Low-Traffic Days
-
-Provide incentives or awareness campaigns for patients to book on [lowest day] to balance workload.
-
-✅ Gender-Specific Health Programs
-
-Consider outreach or health packages tailored for the gender with lower attendance to improve engagement.
 
