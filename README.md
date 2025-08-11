@@ -65,7 +65,8 @@ Dataset includes: Patient ID, Gender, Scheduled Date, Appointment Date, Age, Nei
 ## 📌 Key Insights
 
 📊 Key Insights
-1️⃣ Total Visits 🏥
+
+1️⃣ Total Visits 
 
 The dataset shows X,XXX total appointments during the analyzed period.
 
