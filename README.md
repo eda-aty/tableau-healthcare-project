@@ -62,8 +62,6 @@ Dataset includes: Patient ID, Gender, Scheduled Date, Appointment Date, Age, Nei
   - 🔗 [View Dashboard on Tableau Public](https://public.tableau.com/views/HealtcareDataAnalysisProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-- 🔗 [Tableau Dashboard] (https://public.tableau.com/views/HealtcareDataAnalysisProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
 ## 📌 Key Insights
 
 📊 Key Insights
